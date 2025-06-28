@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
   
-
+const sohan=10;
   return (
     <>
      <FocusForm />
